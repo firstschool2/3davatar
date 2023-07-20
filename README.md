@@ -25,4 +25,4 @@ Blender
 Maya
 Cinema4D
 
-https://avatar.unicornplatform.page/
+https://www.fastavatar.cn
