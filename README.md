@@ -25,4 +25,5 @@ Blender
 Maya
 Cinema4D
 
-fastavatar.cn
+www.fastavatar.cn
+
